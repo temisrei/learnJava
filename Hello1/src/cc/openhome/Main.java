@@ -1,7 +1,9 @@
 package cc.openhome;
 
+import cc.openhome.util.Console;
+
 public class Main {
     public static void main(String[] args) {
-        cc.openhome.util.Console.writeLine("Hello World");
+        Console.writeLine("Hello World");
     }
 }
